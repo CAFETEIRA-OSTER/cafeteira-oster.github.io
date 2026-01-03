@@ -41,11 +41,12 @@
         <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
         <PackageCertificateThumbprint>A6DD4B5D23887B39C9CBA8F941522A31AEF6E4DD</PackageCertificateThumbprint>
         <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
-        <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+        <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
         <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
         <GenerateTestArtifacts>True</GenerateTestArtifacts>
-        <AppInstallerUri>https://cafeteira-oster.github.io/APPTESTE/</AppInstallerUri>
+        <AppInstallerUri>https://cafeteira-oster.github.io/APPTESTE/Installer/package.appinstaller</AppInstallerUri>
         <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
+        <DefaultLanguage>pt-br</DefaultLanguage>
     </PropertyGroup>
 
     <ItemGroup>
