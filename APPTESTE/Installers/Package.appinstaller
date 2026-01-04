@@ -2,11 +2,11 @@
 <AppInstaller
     xmlns="http://schemas.microsoft.com/appx/appinstaller/2018/05"
     Uri="https://cafeteira-oster.github.io/APPTESTE/Installers/Package.appinstaller"
-    Version="1.0.1.0">
+    Version="1.0.1.1">
   <MainPackage
       Name="APPTESTE"
       Publisher="CN=labservice"
-      Version="1.0.1.0"
+      Version="1.0.1.1"
       ProcessorArchitecture="x64"
       Uri="https://cafeteira-oster.github.io/APPTESTE/Installers/APPTESTE_x64.msix" />
   <UpdateSettings>
